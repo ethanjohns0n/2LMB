@@ -77,7 +77,7 @@ Real-time SCP enforcement using event-driven architecture:
   aws organizations list-policies --filter SERVICE_CONTROL_POLICY
 
   # Example Outputs
-  #{
+  # {
   #  "Policies": [
   #      {
   #          "Id": "p-FullAWSAccess",
