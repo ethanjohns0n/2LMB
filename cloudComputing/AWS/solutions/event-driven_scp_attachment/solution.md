@@ -201,10 +201,8 @@ Real-time SCP enforcement using event-driven architecture:
     }
     ```
 
-  ```
   - target
   Lambda function `MemeberAccountInitialization`
-  ```
 
 - Create IAM policy `OrganizationsLambdaOperations`, attach to IAM role `MemeberAccountInitialization-role-hnq4hlhj`
 
